@@ -8,6 +8,8 @@ void square();
 void cube();
 void power();
 int main() {
+     printf("Ayush  kumar\n");
+    printf("ERP: 11723 \n");
     int choice;
     char ch = 'y';
     while (ch == 'y' || ch == 'Y') {
